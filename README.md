@@ -17,5 +17,5 @@ Usage
 Simple example usage
 
 ```
-plugin config SFDC {'username':'username','password':'password','security_token':'security token'}
+!plugin config SFDC {'username':'username','password':'password','security_token':'security token'}
 ```
