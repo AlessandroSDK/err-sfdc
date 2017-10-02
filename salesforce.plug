@@ -6,4 +6,4 @@ Module = salesforce
 Description = This is a simple integration with Salesforce
 
 [Python]
-Version = 2+
+Version = 3+
